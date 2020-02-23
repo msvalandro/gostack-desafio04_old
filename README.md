@@ -1,4 +1,4 @@
-# Desafio 01: Introdução ao React
+# Desafio 04: Introdução ao React
 
 Crie uma aplicação do zero utilizando [Webpack](https://webpack.js.org/), [Babel](https://babeljs.io/), [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) e [ReactJS](https://reactjs.org/).
 

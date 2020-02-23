@@ -1,7 +1,16 @@
 import React from 'react';
 
+import './App.css';
+import Header from './components/Header';
+import PostList from './components/PostList';
+
 function App() {
-  return <h1>Hello world.</h1>;
+  return (
+    <>
+      <Header />
+      <PostList />
+    </>
+  );
 }
 
 export default App;
